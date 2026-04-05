@@ -5,6 +5,8 @@ A sophisticated, full-stack Banquet Hall Booking System with modern web technolo
 
 ---
 
+**Video Link** : https://drive.google.com/file/d/1WS0FLMGJVShXqXWu-EjZ-VgAj3-AKvIy/view?usp=sharing
+
 ## 🎯 Features
 
 ### 🔐 Authentication & Security

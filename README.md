@@ -157,3 +157,189 @@ Banquet-Booking-System/
 ├── package.json
 
 └── README.md
+
+**📖 Usage Guide**
+
+1. Login Page
+
+Register or login
+
+Secure authentication
+
+2. Booking Page
+
+Check hall availability
+
+Select date and event type
+
+3. Event Customization
+   
+Choose catering and services
+
+Enter guest details
+
+4. Confirmation
+
+Review booking
+
+Confirm reservation
+
+5. Admin Dashboard
+
+Manage bookings
+
+Monitor events
+
+View analytics
+
+**🔄 Real-Time Updates**
+
+>Live availability updates
+
+>Instant booking confirmation
+
+>Real-time event tracking
+
+>No page refresh required
+
+**📊 Sample Data**
+
+>Sample users
+
+>Sample bookings
+
+>Sample events
+
+>Demo event schedules
+
+**🎨 Customization**
+
+>Changing UI Design
+
+>Modify CSS files
+
+>Updating Features
+
+>Add new services
+
+>Customize booking flow
+
+**🛠️ API Endpoints**
+
+**Authentication**
+
+>POST /api/auth/register
+
+>POST /api/auth/login
+
+**Bookings**
+
+>GET /api/bookings
+
+>POST /api/bookings
+
+>PUT /api/bookings/:id
+
+>DELETE /api/bookings/:id
+
+**Events**
+
+>GET /api/events
+
+>POST /api/events
+
+**📱 Responsive Design**
+
+>Desktop support
+
+>Tablet compatibility
+
+>Mobile-friendly UI
+
+**♿ Accessibility**
+
+>Semantic HTML
+
+>Easy navigation
+
+>Readable UI
+
+**🔒 Security Features**
+
+>JWT authentication
+
+>Password encryption
+
+>Secure APIs
+
+>Input validation
+
+**📈 Performance**
+
+>Optimized database queries
+
+>Fast API responses
+
+>Efficient UI rendering
+
+**🐛 Troubleshooting**
+
+>Server Not Running
+
+>Check Node.js installation
+
+>Database Issues
+
+>Ensure MongoDB is running
+
+**📚 Technologies Used**
+
+>Node.js
+
+>Express.js
+
+>React.js
+
+>MongoDB
+
+>HTML, CSS, JavaScript
+
+**📝 License**
+
+>This project is for educational and practical use.
+
+**🤝 Support**
+
+>Check logs for errors
+
+>Debug using browser console
+
+**🎓 Learning Resources**
+
+>Node.js Docs
+
+>React Docs
+
+>MongoDB Docs
+
+**🚀 Next Steps**
+
+**Enhanced Features**
+
+>Online payment integration
+
+>AI-based recommendations
+
+>Chat support
+
+**Deployment**
+
+>Cloud hosting (AWS / Heroku)
+
+>Docker setup
+
+**Enterprise Features**
+
+>Multi-hall management
+
+>Role-based access
